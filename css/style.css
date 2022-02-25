@@ -1,0 +1,198 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25 Feb, 2022, 8:22:51 AM
+    Author     : fwcbn
+*/
+.main-box {
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid lightgray; }
+  .main-box .circle-img {
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    background: blue; }
+  .main-box .circle-img img {
+    width: 50px;
+    height: 50px;
+    border-radius: 30px; }
+  .main-box .in-field input {
+    margin-top: 2px;
+    border-radius: 20px;
+    padding: 8px; }
+  .main-box .ps {
+    margin-right: 15px !important; }
+  .main-box .po-send {
+    padding: 4px;
+    padding-right: 4px;
+    padding-left: 4px;
+    float: right;
+    padding-left: 15px;
+    padding-right: 20px;
+    background-color: #16223e;
+    color: white;
+    margin-top: 8px;
+    border-radius: 10px;
+    font-size: 12px; }
+
+.mainbox2 .name h6 {
+  font-weight: 600; }
+.mainbox2 .time p {
+  font-size: 12px;
+  color: lightgray;
+  text-align: end;
+  font-weight: 400;
+  margin-right: 14px; }
+.mainbox2 .time p .ass {
+  margin-left: 10px;
+  padding-top: 2px; }
+.mainbox2 .self-comment {
+  border-top: 1px solid lightgray;
+  padding-top: 18px; }
+.mainbox2 .comment-1 {
+  margin-top: 25px; }
+.mainbox2 .lsc .ad {
+  margin-left: 4px;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  background: red;
+  border-radius: 20px;
+  background-image: url("like.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; }
+.mainbox2 .lsc .ad img {
+  width: 100%;
+  max-width: 100%; }
+
+.bg-menu {
+  background: #16223e;
+  height: 110%; }
+  .bg-menu .logo {
+    text-align: center;
+    padding-top: 40px; }
+    .bg-menu .logo img {
+      width: 80%; }
+  .bg-menu .menu {
+    margin-top: 60px;
+    color: white; }
+    .bg-menu .menu li {
+      text-decoration: none;
+      margin-top: 20px;
+      font-size: 20px; }
+      .bg-menu .menu li a {
+        color: inherit;
+        text-decoration: none; }
+    .bg-menu .menu ul {
+      list-style: none; }
+
+.main-post {
+  border: 1px solid lightgray;
+  padding: 10px;
+  border-radius: 8px; }
+  .main-post p {
+    font-size: 12px; }
+  .main-post .a {
+    width: 50px;
+    float: left; }
+    .main-post .a img {
+      width: 50px;
+      height: 50px;
+      border-radius: 30px;
+      border: 1px solid lightgrey; }
+  .main-post .p-b {
+    margin-top: -3px !important; }
+  .main-post .b {
+    width: 520px;
+    max-width: 100%;
+    float: left;
+    margin-left: 12px;
+    padding-top: 8px; }
+    .main-post .b .aa {
+      float: left;
+      width: 50%; }
+      .main-post .b .aa h6 {
+        font-weight: 600; }
+    .main-post .b .bb {
+      float: left;
+      width: 50%; }
+      .main-post .b .bb p {
+        font-size: 12px;
+        color: lightgray;
+        text-align: end; }
+        .main-post .b .bb p .m-l {
+          margin-left: 10px;
+          padding-top: 3px; }
+  .main-post input {
+    border-radius: 20px; }
+  .main-post .cus-field {
+    padding: 4px;
+    padding-right: 4px;
+    padding-left: 4px;
+    float: right;
+    padding-left: 15px;
+    padding-right: 20px;
+    background-color: #16223e;
+    color: white;
+    margin-top: 8px;
+    border-radius: 10px;
+    font-size: 12px;
+    margin-right: 15px; }
+  .main-post .comment-first {
+    border-top: 1px solid lightgray;
+    padding-top: 20px;
+    margin-top: 20px; }
+  .main-post .comment-sec {
+    margin-top: 15px; }
+  .main-post .sub-img {
+    width: 50px; }
+    .main-post .sub-img img {
+      width: 45px;
+      height: 45px; }
+  .main-post .subb-text {
+    width: 458px; }
+
+.right-fbox {
+  margin-top: 20px;
+  border: 1px solid lightgray;
+  padding: 20px;
+  border-radius: 8px; }
+
+.new-text li {
+  text-decoration: none;
+  font-size: 12px; }
+.new-text ul {
+  list-style: none;
+  padding: 0px; }
+
+.ss {
+  display: inline-block;
+  margin-left: 45px;
+  margin-bottom: 12px; }
+
+.margin-top {
+  margin-top: 22px; }
+
+.pp {
+  margin-right: 0px !important; }
+
+.icons span {
+  color: lightgray;
+  font-size: 13px;
+  font-weight: 500; }
+
+.icons img {
+  width: 26px;
+  margin-left: 20px; }
+
+.icons img:hover {
+  background-color: #16223e;
+  border-radius: 12px;
+  color: white; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,224 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25 Feb, 2022, 8:22:51 AM
+    Author     : fwcbn
+*/
+
+.main-box{
+    padding: 12px;
+   border-radius: 8px;
+    border:1px solid lightgray;
+
+        .circle-img{
+        width: 50px;
+        height: 50px;
+        border-radius: 30px;
+        background: blue;
+    }
+    .circle-img img{
+        width: 50px;
+        height: 50px;
+        border-radius: 30px;
+        
+    }
+
+    .in-field input{
+        margin-top: 2px;
+        border-radius: 20px;
+        padding: 8px;
+}
+.ps{
+   margin-right: 15px !important;
+    
+}
+.po-send{
+    padding: 4px;
+  padding-right: 4px;
+  padding-left: 4px;
+float: right;
+padding-left: 15px;
+padding-right: 20px;
+background-color: #16223e;
+color: white;
+margin-top: 8px;
+border-radius: 10px;
+font-size: 12px;
+}
+    
+}
+
+
+.mainbox2{
+    .name h6{
+    font-weight: 600
+}
+.time p{
+    font-size: 12px;
+    color: lightgray;
+    text-align: end;
+    font-weight: 400;
+        margin-right: 14px;
+}
+.time p .ass{
+    margin-left: 10px;padding-top: 2px
+    
+}
+.self-comment{
+     border-top: 1px solid lightgray;
+         padding-top: 18px;
+}
+.comment-1{
+    margin-top: 25px;
+     
+}
+.lsc .ad{
+    margin-left: 4px;display: inline-block;width: 30px;height: 30px;background: red;border-radius: 20px;
+    background-image: url('like.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+.lsc .ad img{
+    width: 100%;
+    max-width: 100%
+}
+   
+}
+
+
+.bg-menu{
+    background: #16223e;
+        height:110%;
+        .logo 
+        {
+             text-align: center;padding-top:40px;
+            img{
+            width: 80%;
+               
+        }}
+        .menu{
+            margin-top: 60px;
+            color: white;
+            li{text-decoration: none;margin-top: 20px;font-size: 20px ;
+               a{
+                   color: inherit; text-decoration: none;
+               }}
+             ul{list-style: none}
+        }
+}
+.main-post{
+    
+   border:1px solid lightgray;
+   padding:10px;border-radius:8px;
+   p{
+       font-size: 12px;
+   }
+ .a{
+    width:50px;float: left;
+    img{
+        width: 50px;
+        height: 50px;
+        border-radius: 30px;
+        border: 1px solid lightgrey;
+    }
+}
+.p-b{
+    margin-top: -3px!important
+}
+ .b{
+   width:520px ; 
+max-width: 100%;
+   float: left; margin-left: 12px;padding-top: 8px;
+ 
+ 
+   .aa{float:left;width:50%;
+       h6{font-weight: 600;}
+   }
+  .bb{float:left;width:50%;
+     
+       p{font-size: 12px;color: lightgray;text-align: end;
+        .m-l{margin-left: 10px;padding-top: 3px}
+       
+       }
+   }
+ 
+ }
+
+ input{
+     border-radius: 20px
+ }
+ .cus-field{
+     padding: 4px;
+    padding-right: 4px;
+    padding-left: 4px;
+    float: right;
+    padding-left: 15px;
+    padding-right: 20px;
+    background-color: #16223e;
+    color: white;
+    margin-top: 8px;
+    border-radius: 10px;
+    font-size: 12px;    margin-right: 15px
+ }
+
+ 
+ 
+ .comment-first{
+     border-top: 1px solid lightgray;
+     padding-top: 20px;margin-top: 20px
+         
+ }
+ .comment-sec{
+     margin-top: 15px
+ 
+ }
+ 
+ 
+ .sub-img{
+     width: 50px;
+     img{
+         width: 45px;
+         height: 45px;
+     }
+ }
+ .subb-text{
+    width: 458px;
+ }
+}
+
+.right-fbox{margin-top: 20px;
+    border: 1px solid lightgray;
+    padding: 20px;border-radius: 8px
+   
+}
+.new-text{
+    li{text-decoration: none;font-size: 12px ;} ul{list-style: none;padding: 0px}
+}
+.ss{
+    display: inline-block;margin-left: 45px;    margin-bottom: 12px;
+}
+.margin-top{
+    margin-top: 22px
+}
+.pp{
+    margin-right: 0px!important
+}
+
+
+.icons span{
+        color: lightgray;
+font-size: 13px;font-weight: 500;
+       
+    }
+    .icons img{
+        width: 26px;
+        margin-left: 20px;;
+    }
+
+    .icons img:hover {
+        background-color: #16223e;border-radius: 12px;color:white
+      }
